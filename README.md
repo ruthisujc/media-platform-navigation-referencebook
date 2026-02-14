@@ -1,2 +1,15 @@
 # media-platform-navigation-referencebook
 本仓库用于整理影视平台类网站在导航参考书体系与栏目布局方面的公开资料，通过持续归档页面层级逻辑、栏目划分方式以及标题写法策略，形成长期研究档案。内容仅涉及公开页面中的结构元素，不包含影视播放或下载资源。通过对不同平台页面组织方式的对比分析，可为页面优化与关键词布局提供参考依据。所有资料来源于可公开访问页面，仅用于信息索引与结构研究参考，不构成推广或商业背书说明。
+
+追影网｜影视网站资料摘要
+
+名称：追影网
+链接：https://www.tmecorn.com/
+
+分类：影视站点
+状态：可访问
+
+说明：
+该摘要用于记录影视网站信息。
+
+Site notes: https://ruthisujc.github.io/media-platform-navigation-referencebook/
